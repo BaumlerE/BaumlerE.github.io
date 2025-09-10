@@ -7,11 +7,10 @@
 
 ## Tools
 ### All-optical interrogation
+### All-optical interrogation
 <div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap">
-  <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
-  <iframe src="assets/ao-video.html"
-          width="400" height="400" style="border:0"
-          title="ao ideo"></iframe>
+  <img src="assets/CTX.jpg" alt="Cortex" style="width:400px;height:400px;object-fit:cover">
+  <img src="assets/ao.gif" alt="AO video (looping)" style="width:400px;height:400px;object-fit:cover">
 </div>
 
 ### High-yield extracellular electrophysiology (Neuropixels)
