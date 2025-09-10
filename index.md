@@ -14,10 +14,10 @@ title: Edgar Bäumler
 ### All-optical interrogation
 
 <p align="left">
-  <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
+  <img src="assets/CTX.jpg" alt="Cortex" width="200" height="200">
   &nbsp;&nbsp;&nbsp;
   <a href="assets/ao.mp4">
-    <img src="assets/ao.gif" alt="All-optical preview (looping)" width="400" height="400">
+    <img src="assets/ao.gif" alt="All-optical preview (looping)" width="200" height="200">
   </a>
 </p>
 
@@ -39,11 +39,11 @@ title: Edgar Bäumler
 ### All-optical interrogation of recurrent memory networks 
 
 <p align="left">
-  <img src="assets/crop_ca3.png" alt="Cortex" width="800" height="800">
+  <img src="assets/crop_ca3.png" alt="Cortex" width="800" height="400">
 </p>
 
 <p align="left"><small>
-  We use all-optical to study memory processing in hippocampal CA3 (work done in colloboration with Rokas Stonis at UCL).<br>
+  We use all-optical to study memory processing in hippocampal CA3 (work done in collaboration with Rokas Stonis at UCL).<br>
 </small></p>
 
 ## Talks & Lectures
