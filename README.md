@@ -17,7 +17,7 @@
 ### High-yield extracellular electrophysiology (Neuropixels)
 
 
-<p align="center">
+<p align="left">
   <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
   &nbsp;&nbsp;&nbsp;
   <a href="assets/ao.mp4">
