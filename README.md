@@ -17,18 +17,14 @@
 ### High-yield extracellular electrophysiology (Neuropixels)
 
 <p>
-  <!-- Left card -->
-  <span style="display:inline-block; width:400px; text-align:center; vertical-align:top; margin-right:20px;">
+  <span style="display:inline-block; text-align:center; margin-right:20px;">
     <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400"><br>
     <strong>CTX image</strong><br>
     Two-photon view of cortical neurons
   </span>
 
-  <!-- Right card -->
-  <span style="display:inline-block; width:400px; text-align:center; vertical-align:top;">
-    <a href="assets/ao.mp4">
-      <img src="assets/ao.gif" alt="All-optical (looping)" width="400" height="400">
-    </a><br>
+  <span style="display:inline-block; text-align:center;">
+    <img src="assets/ao.gif" alt="AO (looping)" width="400" height="400"><br>
     <strong>All-optical demo</strong><br>
     Looping preview — click for MP4
   </span>
