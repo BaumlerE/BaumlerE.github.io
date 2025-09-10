@@ -17,13 +17,11 @@
 </p>
 
 <p align="left"><small>
-  <strong>Left:</strong> CTX image — two-photon view of cortical neurons.<br>
+  <strong>Left:</strong> Two-photon image of opsin and indicator co-expression in cortex (acquired in Moser lab at NTNU).<br>
   <strong>Right:</strong> All-optical demo (acquired in collaboration with Nick Robinson at UCL).
 </small></p>
 
 ### High-yield extracellular electrophysiology (Neuropixels)
-
-
 
 ### Voltage imaging  
 
