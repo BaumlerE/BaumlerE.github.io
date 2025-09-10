@@ -18,6 +18,12 @@
   </video>
 </div>
 
+### High-yield extracellular electrophysiology (Neuropixels)
+
+### Virtual reality 
+
+## Publications 
+
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
 - Session chair - Spring Hippocampal Research Conference, Verona 2023
