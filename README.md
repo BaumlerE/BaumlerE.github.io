@@ -33,6 +33,7 @@
     <small><strong>All-optical demo</strong><br>Looping preview — click for MP4</small>
   </span>
 </p>
+
 ### Voltage imaging  
 
 ### Virtual reality 
