@@ -43,7 +43,7 @@ title: Edgar Bäumler
 </p>
 
 <p align="left"><small>
-  We use all-optical to study memory processing in hippcoampal CA3 (work done in colloboration with Rokas Stonis at UCL).<br>
+  We use all-optical to study memory processing in hippocampal CA3 (work done in colloboration with Rokas Stonis at UCL).<br>
 </small></p>
 
 ## Talks & Lectures
