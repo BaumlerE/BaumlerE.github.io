@@ -33,7 +33,9 @@
 ## Projects 
 
 ### All-optical interrogation of recurrent memory networks 
-
+<p align="left">
+  <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
+</p>
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
 - Session chair - Spring Hippocampal Research Conference, Verona 2023
