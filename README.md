@@ -7,19 +7,22 @@
 
 ## Tools
 ### All-optical interrogation
+
 <table>
   <tr>
     <td>
       <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
     </td>
-    <td width="20"></td> <!-- small gap -->
+    <td width="20"></td>
     <td>
-      <video width="400" height="400" autoplay loop muted playsinline>
-        <source src="assets/ao.mp4" type="video/mp4">
-      </video>
+      <!-- Clickable GIF that opens the MP4 in a new tab (optional) -->
+      <a href="assets/ao.mp4">
+        <img src="assets/ao.gif" alt="AO (looping)" width="400" height="400">
+      </a>
     </td>
   </tr>
 </table>
+
 ### High-yield extracellular electrophysiology (Neuropixels)
 
 ### Virtual reality 
