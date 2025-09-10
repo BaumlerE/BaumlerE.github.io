@@ -7,8 +7,6 @@
 
 ## Tools
 ### All-optical interrogation
-![Cortex](/assets/CTX.jpg) 
-
 <div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap">
   <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
   <iframe src="assets/ao-video.html"
