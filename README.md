@@ -11,5 +11,5 @@
 
 ## Talks & Lectures
 - Session chair: All-optical interrogation in the hippocampus - Spring Hippocampal Research Conference, Verona 2023
-- Invited speaker: Dimensionality Reduction - 8th FNIP Webinar, University of Padua, Virtual 2023
+- Invited speaker: All-optical approaches for investigating downstream readout of neural activity patterns - 8th FNIP Webinar, University of Padua, Virtual 2023
 
