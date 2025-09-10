@@ -1,5 +1,3 @@
-# BaumlerE.github.io
-
 # Neuroscientist 
 
 ### Education 
