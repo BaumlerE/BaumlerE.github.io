@@ -16,7 +16,7 @@
 
 ### High-yield extracellular electrophysiology (Neuropixels)
 
-<p align="center">
+<p align="left">
   <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
   &nbsp;&nbsp;&nbsp;
   <a href="assets/ao.mp4">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<p align="center"><small>
+<p align="left"><small>
   <strong>Left:</strong> CTX image — two-photon view of cortical neurons.<br>
   <strong>Right:</strong> All-optical demo (acquired in collaboration with Nick Robinson at UCL).
 </small></p>
