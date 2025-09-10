@@ -10,6 +10,8 @@
 
 <p>
   <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
+  <small><strong>CTX image</strong><br>Two-photon view of cortical neurons</small>
+
   &nbsp;&nbsp;&nbsp;
   <img src="assets/ao.gif" alt="AO (looping)" width="400" height="400">
 </p>
