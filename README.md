@@ -38,6 +38,10 @@
   <img src="assets/crop_ca3.png" alt="Cortex" width="800" height="800">
 </p>
 
+<p align="left"><small>
+  Two-photon image of opsin and co-expression in cortex (acquired in Moser lab at NTNU).<br>
+</small></p>
+
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
 - Session chair - Spring Hippocampal Research Conference, Verona 2023
