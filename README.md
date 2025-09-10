@@ -23,7 +23,7 @@
     <small><strong>CTX image</strong><br>Two-photon view of cortical neurons</small>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- small gap -->
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Right: looping preview (GIF) + caption; click opens MP4 -->
   <span>
