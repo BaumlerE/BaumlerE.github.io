@@ -39,7 +39,7 @@
 </p>
 
 <p align="left"><small>
-  Two-photon image of opsin and co-expression in cortex (acquired in Moser lab at NTNU).<br>
+  We use all-optical to study memory processing in hippcoampal CA3 (work done in colloboration with Rokas Stonis at UCL).<br>
 </small></p>
 
 ## Talks & Lectures
