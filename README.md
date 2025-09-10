@@ -9,13 +9,11 @@
 ### All-optical interrogation
 ![Cortex](/assets/CTX.jpg) 
 
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="assets/CTX.jpg" alt="Cortex" width="400">
-
-  <video width="400" autoplay loop muted playsinline>
-    <source src="assets/allopticalsequence.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<div style="display:flex;gap:20px;align-items:center;flex-wrap:wrap">
+  <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
+  <iframe src="assets/ctx-video.html"
+          width="400" height="400" style="border:0"
+          title="CTX video"></iframe>
 </div>
 
 ### High-yield extracellular electrophysiology (Neuropixels)
