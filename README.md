@@ -25,9 +25,9 @@
   </a>
 </p>
 
-<p align="center"><small>
+<p align="left"><small>
   <strong>Left:</strong> CTX image — two-photon view of cortical neurons. 
-  <strong>Right:</strong> All-optical demo (looping preview; click for MP4).
+  <strong>Right:</strong> All-optical demo (acquired in collaboration with Nick Robinson at UCL).
 </small></p>
 
 ### Voltage imaging  
