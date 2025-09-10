@@ -17,21 +17,18 @@
 ### High-yield extracellular electrophysiology (Neuropixels)
 
 
-<p>
-  <span style="display:inline-block; width:400px; text-align:center; margin-right:20px;">
-    <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400"><br>
-    <strong>CTX image</strong><br>
-    Two-photon view of cortical neurons
-  </span>
-
-  <span style="display:inline-block; width:400px; text-align:center;">
-    <a href="assets/ao.mp4">
-      <img src="assets/ao.gif" alt="AO (looping)" width="400" height="400">
-    </a><br>
-    <strong>All-optical demo</strong><br>
-    Looping preview — click for MP4
-  </span>
+<p align="center">
+  <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
+  &nbsp;&nbsp;&nbsp;
+  <a href="assets/ao.mp4">
+    <img src="assets/ao.gif" alt="All-optical preview (looping)" width="400" height="400">
+  </a>
 </p>
+
+<p align="center"><small>
+  <strong>Left:</strong> CTX image — two-photon view of cortical neurons. 
+  <strong>Right:</strong> All-optical demo (looping preview; click for MP4).
+</small></p>
 
 ### Voltage imaging  
 
