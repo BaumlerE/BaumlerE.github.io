@@ -17,7 +17,8 @@
 </p>
 
 <p align="left"><small>
-  <strong>Left:</strong> Two-photon image of opsin and indicator co-expression in cortex (acquired in Moser lab at NTNU).<br>
+  <strong>Left:</strong> Two-photon image of opsin and 
+  <span style="color:blue;">indicator</span> co-expression in cortex (acquired in Moser lab at NTNU).<br>
   <strong>Right:</strong> All-optical stimulation of hippocampal sequences (acquired in collaboration with Nick Robinson at UCL).
 </small></p>
 
