@@ -32,14 +32,7 @@
 
 ## Projects 
 
-
 ### All-optical interrogation of recurrent memory networks 
-
-## Publications 
-1. Triplett A., **Bäumler E.**, Prodan A., Stonis R., Paterka D., Häusser M. & Paninski L. “Fast photostimulus optimization for holographic control of neural ensemble activity in vivo” – bioRxiv 2025. DOI: https://doi.org/10.1101/2025.07.31.667911
-2. **Bäumler E.** “All-optical approaches for investigating downstream readout of hippocampal activity patterns” – PhD Thesis UCL 2024 https://discovery.ucl.ac.uk/id/eprint/10195198/
-3. Tsutsumi T., Chadney O., Long Yiu T., **Bäumler E.**, Faraggiana L., Beau M. & Häusser M. “Purkinje cell activity determines the timing of sensory-evoked motor initiation” – Cell Reports 2020 DOI: https://doi.org/10.1016/j.celrep.2020.108537
-4. **Bäumler E.**, Strickland L. & Privitera L. “Molecular underpinnings of estradiol-mediated sexual dimorphism of synaptic plasticity in the hippocampus of rodents (Journal club)” – Journal of Neuroscience 2019 DOI: https://doi.org/10.1523/JNEUROSCI.2894-18.2019
 
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
@@ -47,3 +40,11 @@
 - Invited speaker  - 8th FNIP Webinar by University of Padua, Virtual 2023 [Youtube](https://www.youtube.com/watch?v=FCxVaeMQ9bs&ab_channel=FNIP)
 - Invited speaker - Minisymposium on Imaging Riken Institute, Tokyo 2023
 - Speaker - Interacting with Neural circuits Cajal Course, Lisbon 2023
+- 
+## Publications 
+1. Triplett A., **Bäumler E.**, Prodan A., Stonis R., Paterka D., Häusser M. & Paninski L. “Fast photostimulus optimization for holographic control of neural ensemble activity in vivo” – bioRxiv 2025. DOI: https://doi.org/10.1101/2025.07.31.667911
+2. **Bäumler E.** “All-optical approaches for investigating downstream readout of hippocampal activity patterns” – PhD Thesis UCL 2024 https://discovery.ucl.ac.uk/id/eprint/10195198/
+3. Tsutsumi T., Chadney O., Long Yiu T., **Bäumler E.**, Faraggiana L., Beau M. & Häusser M. “Purkinje cell activity determines the timing of sensory-evoked motor initiation” – Cell Reports 2020 DOI: https://doi.org/10.1016/j.celrep.2020.108537
+4. **Bäumler E.**, Strickland L. & Privitera L. “Molecular underpinnings of estradiol-mediated sexual dimorphism of synaptic plasticity in the hippocampus of rodents (Journal club)” – Journal of Neuroscience 2019 DOI: https://doi.org/10.1523/JNEUROSCI.2894-18.2019
+
+
