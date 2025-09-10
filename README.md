@@ -1,7 +1,7 @@
 # BaumlerE.github.io
+logo: /assets/CTX.jpg
 
 # Neuroscientist 
-logo: /assets/CTX.jpg
 
 ### Education 
 Neuroscience, PhD 
