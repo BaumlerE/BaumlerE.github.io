@@ -5,4 +5,4 @@ Neuroscience, PhD
 
 ### Tools 
 All-optical interrogation
-! [Cortex](/assets/CTX.jpg) 
+![Cortex](/assets/CTX.jpg) 
