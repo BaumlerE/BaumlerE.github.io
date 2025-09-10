@@ -12,19 +12,14 @@
     <td>
       <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
     </td>
-    <td width="20"></td> <!-- gap -->
+    <td width="20"></td> <!-- small gap -->
     <td>
-      <!-- use your looping GIF OR MP4 -->
-      <!-- If GIF: <img src="assets/ao.gif" alt="AO (looping)" width="400" height="400"> -->
-
       <video width="400" height="400" autoplay loop muted playsinline>
         <source src="assets/ao.mp4" type="video/mp4">
-        Your browser does not support the video tag.
       </video>
     </td>
   </tr>
 </table>
-
 ### High-yield extracellular electrophysiology (Neuropixels)
 
 ### Virtual reality 
