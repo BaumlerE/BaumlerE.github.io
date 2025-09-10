@@ -9,6 +9,15 @@
 ### All-optical interrogation
 ![Cortex](/assets/CTX.jpg) 
 
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="assets/CTX.jpg" alt="Cortex" width="400">
+
+  <video width="400" autoplay loop muted playsinline>
+    <source src="assets/allopticalsequence.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
 - Session chair - Spring Hippocampal Research Conference, Verona 2023
