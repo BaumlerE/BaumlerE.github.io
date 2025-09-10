@@ -16,7 +16,33 @@
 
 ### High-yield extracellular electrophysiology (Neuropixels)
 
+<p align="left">
+  <!-- Left: CTX image + caption -->
+  <span>
+    <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400"><br>
+    <small><strong>CTX image</strong><br>Two-photon view of cortical neurons</small>
+  </span>
+
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- small gap -->
+
+  <!-- Right: looping preview (GIF) + caption; click opens MP4 -->
+  <span>
+    <a href="assets/ao.mp4">
+      <img src="assets/ao.gif" alt="All-optical (looping)" width="400" height="400">
+    </a><br>
+    <small><strong>All-optical demo</strong><br>Looping preview — click for MP4</small>
+  </span>
+</p>
+### Voltage imaging  
+
 ### Virtual reality 
+
+### Open field recordings 
+
+## Projects 
+
+
+### All-optical interrogation of recurrent memory networks 
 
 ## Publications 
 
