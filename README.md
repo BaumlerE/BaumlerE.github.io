@@ -1,5 +1,4 @@
 # BaumlerE.github.io
-logo: /assets/CTX.jpg
 
 # Neuroscientist 
 
@@ -8,3 +7,4 @@ Neuroscience, PhD
 
 ### Tools 
 All-optical interrogation
+! [Cortex](/assets/CTX.jpg) 
