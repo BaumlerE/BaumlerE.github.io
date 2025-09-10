@@ -39,7 +39,7 @@ title: Edgar Bäumler
 ### All-optical interrogation of recurrent memory networks 
 
 <p align="left">
-  <img src="assets/crop_ca3.png" alt="Cortex" width="800" height="400">
+  <img src="assets/crop_ca3.png" alt="Cortex" width="200" height="200">
 </p>
 
 <p align="left"><small>
