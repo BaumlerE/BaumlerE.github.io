@@ -36,7 +36,8 @@
 ### All-optical interrogation of recurrent memory networks 
 
 ## Publications 
-
+1. Triplett A., Bäumler E., Prodan A., Stonis R., Paterka D., Häusser M. & Paninski L. “Fast photostimulus optimization for holographic control of neural ensemble activity in vivo” – bioRxiv 2025. DOI:https://doi.org/10.1101/2025.07.31.667911
+2. 
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
 - Session chair - Spring Hippocampal Research Conference, Verona 2023
