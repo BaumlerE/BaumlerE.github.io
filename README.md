@@ -10,6 +10,7 @@
 ![Cortex](/assets/CTX.jpg) 
 
 ## Talks & Lectures
-- Session chair: All-optical interrogation in the hippocampus - Spring Hippocampal Research Conference, Verona 2023
-- Invited speaker: All-optical approaches for investigating downstream readout of neural activity patterns - 8th FNIP Webinar, University of Padua, Virtual 2023 [Youtube](https://www.youtube.com/watch?v=FCxVaeMQ9bs&ab_channel=FNIP)
-
+- Session chair: - Spring Hippocampal Research Conference, Verona 2023
+- Invited speaker  - 8th FNIP Webinar by University of Padua, Virtual 2023 [Youtube](https://www.youtube.com/watch?v=FCxVaeMQ9bs&ab_channel=FNIP)
+- Invited speaker - Minisymposium on Imaging Riken Institute, Tokyo 2023
+- Speaker: - Interacting with Neural circuits Cajal Course, Lisbon 2023
