@@ -19,7 +19,7 @@ title: Edgar Bäumler
 - M.S.c.R., Neuroscience | University of Edinburgh (_July 2019_)	 			        		
 - B.S.c. (Hons), Neuroscience | University of Edinburgh (_May 2018_)
 
-<p align="center">
+<p align="left">
   <a href="https://mrc.ukri.org/" target="_blank">
     <img src="assets/UCL.png" alt="UCL" width="200" style="margin:10px;">
   </a>
