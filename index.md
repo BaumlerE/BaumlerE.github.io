@@ -80,7 +80,7 @@ title: Edgar Bäumler
 </small></p>
 
 ## Awards & Honours 
-- [Research co-investigator](https://gtr.ukri.org/projects?ref=MR%2FZ504476%2F1#/tabOverview) award _UKRI 2024_
+- [Research co-investigator award](https://gtr.ukri.org/projects?ref=MR%2FZ504476%2F1#/tabOverview) _UKRI 2024_
   - total project valuation (>€1M), MRC contribution (£728,765)
 - [PhD fellowship](https://www.bifonds.de/fellowships-grants/fellowships-grants.html) _Boehringer Ingelheim Fonds 2020_ 			        		                 		
 - First class with honours (highest possible degree classification) _University of Edinburgh 2018_ 			        		                 		
