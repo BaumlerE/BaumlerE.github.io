@@ -96,7 +96,7 @@ title: Edgar Bäumler
 
 ## Teaching 
 
-- **Teaching assistant**  _Interacting with Neural Circuits CAJAL course_ - Lisbon 2022 and 2023
+- **Teaching instructor**  _Interacting with Neural Circuits CAJAL course_ - Lisbon 2022 and 2023
   - Neuropixels module 2022
   - All-optical module 2023
 - **Postgraduate teaching** - UCL 2021 and 2024
