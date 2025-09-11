@@ -21,10 +21,10 @@ title: Edgar Bäumler
 
 <p align="center">
   <a href="https://mrc.ukri.org/" target="_blank">
-    <img src="assets/UCL.png" alt="MRC funding" width="100" style="margin:10px;">
+    <img src="assets/UCL.png" alt="UCL" width="200" style="margin:10px;">
   </a>
   <a href="https://www.boehringer-ingelheim.com/science-research/funding/bif" target="_blank">
-    <img src="assets/UOE.png" alt="BIF funding" width="100" style="margin:10px;">
+    <img src="assets/UOE.png" alt="UOE" width="200" style="margin:10px;">
   </a>
 </p>
 
