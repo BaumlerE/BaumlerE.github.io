@@ -15,7 +15,7 @@ title: Edgar Bäumler
 # Neuroscientist 
 
 ## Positions 
-- Postdoctoral fellow in Moser lab | KISN (_2024-present_)								       		
+- Postdoctoral fellow in Moser lab | Kavli Institute for Systems Neuroscience (_2024-present_)								       		
 - Postgraduate research fellow in Häusser lab | University College London (_2019-2024_)								       		
 - Postgraduate researcher Morris lab | University of Edinburgh (_2018-2019_)								       		
 
