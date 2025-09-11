@@ -93,10 +93,11 @@ title: Edgar Bäumler
 ## Teaching 
 
 - **Teaching assistant**  _Interacting with Neural Circuits CAJAL course_ - Lisbon 2022 and 2023
-Neuropixels module 2022, All-optical module 2023
+  - Neuropixels module 2022
+  - All-optical module 2023
 - **Postgraduate teaching** - UCL 2021 and 2024
-Undergraduate courses (workshops and tutorials)
-Wellcome Trust Optical Biology PhD Program (workshop)
+  - Undergraduate courses (workshops and tutorials)
+  - Wellcome Trust Optical Biology PhD Program (workshop)
 
 
 ## Publications 
