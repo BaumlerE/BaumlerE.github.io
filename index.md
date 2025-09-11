@@ -66,10 +66,10 @@ title: Edgar Bäumler
   We use all-optical interrogation to study how hippocampal sequences support the formation of memories across time (work done in collaboration with Moritz Buchholz, Daniel Dobolyi and Nick Robinson at UCL).<br>
 </small></p>
 
-### Hippocampal dynamics underlying temporal association learning 
+### Developing computational tools to improve stimulation resolution 
 
 <p align="left"><small>
-  We use all-optical interrogation to study how hippocampal sequences support  (work done in collaboration with Marcus Triplett).<br>
+  We develop a computational approach to enable fast stimulus optimisation for holographic control of neural activity in vivo (work done in collaboration with Marcus Triplett).<br> [Paper]([https://www.youtube.com/watch?v=FCxVaeMQ9bs&ab_channel=FNIP](https://www.biorxiv.org/content/10.1101/2025.07.31.667911v1))
 </small></p>
 
 ### All-optical interrogation of recurrent memory networks 
