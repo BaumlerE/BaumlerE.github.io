@@ -70,7 +70,7 @@ title: Edgar Bäumler
 
 <p align="left"><small>
   We develop a computational approach to enable fast stimulus optimisation for holographic control of neural activity in vivo (work done in collaboration with Marcus Triplett). 
-  <a href="https://www.youtube.com/watch?v=FCxVaeMQ9bs&amp;ab_channel=FNIP" target="_blank">Paper</a>
+  <a href="https://www.biorxiv.org/content/10.1101/2025.07.31.667911v1" target="_blank">Paper</a>
 </small></p>
 
 ### All-optical interrogation of recurrent memory networks 
@@ -83,6 +83,13 @@ title: Edgar Bäumler
   We use all-optical to study memory processing in hippocampal CA3 (work done in collaboration with Rokas Stonis at UCL).<br>
 </small></p>
 
+## Awards & Honours 
+- [Research co-investigator](https://gtr.ukri.org/projects?ref=MR%2FZ504476%2F1#/tabOverview) award _UKRI_
+  - total project valuation (>€1M), MRC contribution (£728,765)
+- PhD fellowship _Boehringer Ingelheim Fonds_ 			        		                 		
+- First class with honours (highest possible degree classification) _University of Edinburgh_ 			        		                 		
+- Direct entry into year 2 undergraduate _University of Edinburgh_ 			        		
+- Undergraduate fee award _Students Awards Agency Scotland_
 
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
