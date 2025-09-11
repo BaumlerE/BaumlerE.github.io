@@ -88,7 +88,7 @@ title: Edgar Bäumler
 - Undergraduate fee award _Students Awards Agency Scotland 2015_
 
 ## Talks & Lectures
-- Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
+- Invited speaker - KISN Speaker Series, Trondheim 2024
 - Session chair - Spring Hippocampal Research Conference, Verona 2023
 - Invited speaker  - 8th FNIP Webinar by University of Padua, Virtual 2023 [Youtube](https://www.youtube.com/watch?v=FCxVaeMQ9bs&ab_channel=FNIP)
 - Invited speaker - Minisymposium on Imaging Riken Institute, Tokyo 2023
