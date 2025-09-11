@@ -4,8 +4,12 @@ title: Edgar Bäumler
 ---
 
 <p align="center">
-  <a href="https://mrc.ukri.org/"><img src="assets/mrc.png" alt="MRC funding" width="80" style="margin:10px;"></a>
-  <a href="https://www.boehringer-ingelheim.com/science-research/funding/bif"><img src="assets/bif.png" alt="BIF funding" width="80" style="margin:10px;"></a>
+  <a href="https://mrc.ukri.org/" target="_blank">
+    <img src="assets/mrc.png" alt="MRC funding" width="80" style="margin:10px;">
+  </a>
+  <a href="https://www.boehringer-ingelheim.com/science-research/funding/bif" target="_blank">
+    <img src="assets/bif.png" alt="BIF funding" width="80" style="margin:10px;">
+  </a>
 </p>
 
 # Neuroscientist 
