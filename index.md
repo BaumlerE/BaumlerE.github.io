@@ -84,12 +84,12 @@ title: Edgar Bäumler
 </small></p>
 
 ## Awards & Honours 
-- [Research co-investigator](https://gtr.ukri.org/projects?ref=MR%2FZ504476%2F1#/tabOverview) award _UKRI_
+- [Research co-investigator](https://gtr.ukri.org/projects?ref=MR%2FZ504476%2F1#/tabOverview) award _UKRI 2024_
   - total project valuation (>€1M), MRC contribution (£728,765)
-- [PhD fellowship](https://www.bifonds.de/fellowships-grants/fellowships-grants.html) _Boehringer Ingelheim Fonds_ 			        		                 		
-- First class with honours (highest possible degree classification) _University of Edinburgh_ 			        		                 		
-- Direct entry into year 2 undergraduate _University of Edinburgh_ 			        		
-- Undergraduate fee award _Students Awards Agency Scotland_
+- [PhD fellowship](https://www.bifonds.de/fellowships-grants/fellowships-grants.html) _Boehringer Ingelheim Fonds 2020_ 			        		                 		
+- First class with honours (highest possible degree classification) _University of Edinburgh 2018_ 			        		                 		
+- Direct entry into year 2 undergraduate _University of Edinburgh 2015_ 			        		
+- Undergraduate fee award _Students Awards Agency Scotland 2015_
 
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
