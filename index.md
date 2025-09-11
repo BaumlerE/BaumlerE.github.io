@@ -21,10 +21,10 @@ title: Edgar Bäumler
 
 <p align="left">
   <a href="https://mrc.ukri.org/" target="_blank">
-    <img src="assets/UCL.png" alt="UCL" width="200" style="margin:10px;">
+    <img src="assets/UCL.png" alt="UCL" width="250" style="margin:10px;">
   </a>
   <a href="https://www.boehringer-ingelheim.com/science-research/funding/bif" target="_blank">
-    <img src="assets/UOE.png" alt="UOE" width="200" style="margin:10px;">
+    <img src="assets/UOE.png" alt="UOE" width="250" style="margin:10px;">
   </a>
 </p>
 
@@ -57,7 +57,7 @@ title: Edgar Bäumler
 ### All-optical interrogation of recurrent memory networks 
 
 <p align="left">
-  <img src="assets/crop_ca3.png" alt="Cortex" width="400" height="200">
+  <img src="assets/crop_ca3.png" alt="Cortex" width="400">
 </p>
 
 <p align="left"><small>
