@@ -3,15 +3,6 @@ layout: default
 title: Edgar Bäumler
 ---
 
-<p align="center">
-  <a href="https://mrc.ukri.org/" target="_blank">
-    <img src="assets/MRC.png" alt="MRC funding" width="80" style="margin:10px;">
-  </a>
-  <a href="https://www.boehringer-ingelheim.com/science-research/funding/bif" target="_blank">
-    <img src="assets/BIF.png" alt="BIF funding" width="80" style="margin:10px;">
-  </a>
-</p>
-
 # Neuroscientist 
 
 ## Positions 
