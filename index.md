@@ -17,7 +17,7 @@ title: Edgar Bäumler
 ## Education
 - Ph.D., Neuroscience | University College London (_July 2024_)								       		
 - M.S.c.R., Neuroscience | University of Edinburgh (_July 2019_)	 			        		
-- B.S.c. (Hons), Neuroscience | University of Edinburgh (_May 2018_)\
+- B.S.c. (Hons), Neuroscience | University of Edinburgh (_May 2018_)
 
 <p align="center">
   <a href="https://mrc.ukri.org/" target="_blank">
