@@ -14,6 +14,11 @@ title: Edgar Bäumler
 
 # Neuroscientist 
 
+## Positions 
+- Postdoctoral fellow in Moser lab | KISN (_2024-present_)								       		
+- Postgraduate research fellow in Häusser lab | University College London (_2019-2024_)								       		
+- Postgraduate researcher Morris lab | University of Edinburgh (_2018-2019_)								       		
+
 ## Education
 - Ph.D., Neuroscience | University College London (_July 2024_)								       		
 - M.S.c.R., Neuroscience | University of Edinburgh (_July 2019_)	 			        		
