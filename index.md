@@ -69,7 +69,8 @@ title: Edgar Bäumler
 ### Developing computational tools to improve stimulation resolution 
 
 <p align="left"><small>
-  We develop a computational approach to enable fast stimulus optimisation for holographic control of neural activity in vivo (work done in collaboration with Marcus Triplett [Paper](https://www.youtube.com/watch?v=FCxVaeMQ9bs&ab_channel=FNIP)).<br> 
+  We develop a computational approach to enable fast stimulus optimisation for holographic control of neural activity in vivo (work done in collaboration with Marcus Triplett). 
+  <a href="https://www.youtube.com/watch?v=FCxVaeMQ9bs&amp;ab_channel=FNIP" target="_blank">Paper</a>
 </small></p>
 
 ### All-optical interrogation of recurrent memory networks 
