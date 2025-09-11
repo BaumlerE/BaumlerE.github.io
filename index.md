@@ -54,6 +54,24 @@ title: Edgar Bäumler
 
 ## Projects 
 
+### Measuring long-range functional connectivity at cellular resolution in vivo 
+
+<p align="left"><small>
+  I develop novel approaches for studying long-range functional connections between brain areas during behaviour (work done at UCL).<br>
+</small></p>
+
+### Hippocampal dynamics underlying temporal association learning 
+
+<p align="left"><small>
+  We use all-optical interrogation to study how hippocampal sequences support the formation of memories across time (work done in collaboration with Moritz Buchholz, Daniel Dobolyi and Nick Robinson at UCL).<br>
+</small></p>
+
+### Hippocampal dynamics underlying temporal association learning 
+
+<p align="left"><small>
+  We use all-optical interrogation to study how hippocampal sequences support  (work done in collaboration with Marcus Triplett).<br>
+</small></p>
+
 ### All-optical interrogation of recurrent memory networks 
 
 <p align="left">
@@ -64,12 +82,22 @@ title: Edgar Bäumler
   We use all-optical to study memory processing in hippocampal CA3 (work done in collaboration with Rokas Stonis at UCL).<br>
 </small></p>
 
+
 ## Talks & Lectures
 - Invited speaker - Kavli Institute for Systems Neuroscience speaker series, Trondheim 2024
 - Session chair - Spring Hippocampal Research Conference, Verona 2023
 - Invited speaker  - 8th FNIP Webinar by University of Padua, Virtual 2023 [Youtube](https://www.youtube.com/watch?v=FCxVaeMQ9bs&ab_channel=FNIP)
 - Invited speaker - Minisymposium on Imaging Riken Institute, Tokyo 2023
 - Speaker - Interacting with Neural circuits Cajal Course, Lisbon 2023
+
+## Teaching 
+
+- **Teaching assistant**  _Interacting with Neural Circuits CAJAL course_ - Lisbon 2022 and 2023
+Neuropixels module 2022, All-optical module 2023
+- **Postgraduate teaching** - UCL 2021 and 2024
+Undergraduate courses (workshops and tutorials)
+Wellcome Trust Optical Biology PhD Program (workshop)
+
 
 ## Publications 
 1. Triplett A., **Bäumler E.**, Prodan A., Stonis R., Paterka D., Häusser M. & Paninski L. “Fast photostimulus optimization for holographic control of neural ensemble activity in vivo” – bioRxiv 2025. DOI: https://doi.org/10.1101/2025.07.31.667911
