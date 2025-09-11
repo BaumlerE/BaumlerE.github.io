@@ -26,7 +26,7 @@ title: Edgar Bäumler
   <img src="assets/CTX.jpg" alt="Cortex" width="400" height="400">
   &nbsp;&nbsp;&nbsp;
   <a href="assets/ao.mp4">
-    <img src="assets/ao.gif" alt="All-optical preview (looping)" width="250" height="250">
+    <img src="assets/ao.gif" alt="All-optical preview (looping)" width="400" height="400">
   </a>
 </p>
 
