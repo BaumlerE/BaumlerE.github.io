@@ -14,7 +14,7 @@ title: Edgar Bäumler
 ### All-optical interrogation
 
 <p align="left">
-  <img src="assets/CTX.jpg" alt="Cortex" width="300" height="300">
+  <img src="assets/CTX.jpg" alt="Cortex" width="250" height="250">
   &nbsp;&nbsp;&nbsp;
   <a href="assets/ao.mp4">
     <img src="assets/ao.gif" alt="All-optical preview (looping)" width="300" height="300">
